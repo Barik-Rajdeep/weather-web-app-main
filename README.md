@@ -8,7 +8,7 @@ This web app is using the `openweathermap` API.
 
 `js/script`
 <div id="badges">
-<a href="https://barik-rajdeep.github.io/Portfolio-main/">
+<a href="https://barik-rajdeep.github.io/weather-web-app-main/">
 <img src="https://img.shields.io/badge/Weather-blue">
 </a>
 </div>
